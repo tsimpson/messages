@@ -1,0 +1,4 @@
+## ignore secrets!
+.env
+## pesky modules
+/node_modules
